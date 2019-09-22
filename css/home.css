@@ -1,0 +1,25 @@
+.navbar{
+	background-color: green;
+}
+a{
+	color: white;
+}
+body{
+	background-color: yellow;
+}
+section{
+	width: 30%;
+	float: left;
+	background-color: green;
+	margin: 1.66%;
+	border-radius: 12px;
+	text-align: center;
+	color:white;
+	height: auto;
+}
+#items_slider{
+	background-color: blue;
+}
+.carousel-item{
+	border-radius: 12px;
+}
